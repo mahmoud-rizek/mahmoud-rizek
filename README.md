@@ -2,15 +2,48 @@
 #### I'm a Python Developer.
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-mohamed-07b983234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/" height="30" width="40" /></a>
+
+## 😎 About me
+```py
+  class PersonalInfo:
+    def __init__(self):
+        self.name = 'Mohamed Magdy'
+        self.title = 'Software Engineer'
+        self.location = 'Cairo, Egypt'
+        self.ides = ['Clion', 'IntelliJ', 'PyCharm', 'VS Code']
+        self.languages = ['C++', 'Java', 'Python', 'HTML', 'CSS']
+        self.challenge = 'Practicing to improve my Problem Solving skill'
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = PersonalInfo()
+```
+## 💻 Languages and Tools
+<p align="center">
+    <img src="https://bit.ly/3stK11q" alt="Python" width="45px" title="Python"> 
+    <img src="https://bit.ly/3FIIJVn" alt="HTML" width="45px" title="HTML">
+    <img src="https://bit.ly/3l3qkcu" alt="CSS" width="45px" title="CSS">
+    <img src="https://bit.ly/3Mket5M" alt="JavaScript" width="45px" title="JavaScript">
+    <img src="https://cutt.us/ByzQi"  alt="Docker" width="45px" title="Docker"/>
+    <img src="https://bit.ly/3G2vU8V" alt="VueJS" width="45px" title="VueJS"/>
+  
+    <br/>
+    <img src="https://bit.ly/3yvoEjR" alt="Git" width="45px" title="Git">
+    <img src="https://bit.ly/3wvo4Ai" alt="Github" width="45px" title="Github">
+    <img src="https://2u.pw/JjK3J"  alt="Terminal" width="45px" title="Terminal"/>
+  
+    
+
+
 </p>
 
-<p align="left">
-<a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahmoud-mohamed-07b983234/)
+<br />
