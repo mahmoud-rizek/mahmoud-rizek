@@ -34,15 +34,11 @@ if __name__ == '__main__':
     <img src="https://bit.ly/3FIIJVn" alt="HTML" width="45px" title="HTML">
     <img src="https://bit.ly/3l3qkcu" alt="CSS" width="45px" title="CSS">
     <img src="https://bit.ly/3Mket5M" alt="JavaScript" width="45px" title="JavaScript">
-
-  
-    <br/>
-  
+    <br />
+    <img src="https://bit.ly/3LaG6Nx" alt="Linux" width="45px" title="Linux">
     <img src="https://bit.ly/3yvoEjR" alt="Git" width="45px" title="Git">
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="45px" title="Github">
-    <img src="https://2u.pw/JjK3J"   alt="Terminal" width="45px" title="Terminal"/>
-  
-    
+
 </p>
 
 
