@@ -1,17 +1,24 @@
-### Hi there 👋, my name is Mahmoud
+## Hi there 👋, I'm Mahmoud
 #### I'm a Python Developer.
-<h3 align="center">A passionate frontend developer from Egypt</h3>
 
+<p align="left">
+ <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook" title="Facebook" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/></a>
+  </p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Python+Developer;&center=true&width=500&height=50"></a>
+</p>
 
 ## 😎 About me
 ```py
   class PersonalInfo:
     def __init__(self):
-        self.name = 'Mohamed Magdy'
-        self.title = 'Software Engineer'
+        self.name = 'Mahmoud Mohamed'
+        self.title = 'Python Developer'
         self.location = 'Cairo, Egypt'
-        self.ides = ['Clion', 'IntelliJ', 'PyCharm', 'VS Code']
-        self.languages = ['C++', 'Java', 'Python', 'HTML', 'CSS']
+        self.ides = ['PyCharm', 'VS Code']
+        self.languages = ['Python','django', 'HTML', 'CSS']
         self.challenge = 'Practicing to improve my Problem Solving skill'
 
     def __str__(self):
@@ -27,17 +34,15 @@ if __name__ == '__main__':
     <img src="https://bit.ly/3FIIJVn" alt="HTML" width="45px" title="HTML">
     <img src="https://bit.ly/3l3qkcu" alt="CSS" width="45px" title="CSS">
     <img src="https://bit.ly/3Mket5M" alt="JavaScript" width="45px" title="JavaScript">
-    <img src="https://cutt.us/ByzQi"  alt="Docker" width="45px" title="Docker"/>
-    <img src="https://bit.ly/3G2vU8V" alt="VueJS" width="45px" title="VueJS"/>
+
   
     <br/>
+  
     <img src="https://bit.ly/3yvoEjR" alt="Git" width="45px" title="Git">
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="45px" title="Github">
-    <img src="https://2u.pw/JjK3J"  alt="Terminal" width="45px" title="Terminal"/>
+    <img src="https://2u.pw/JjK3J"   alt="Terminal" width="45px" title="Terminal"/>
   
     
-
-
 </p>
 
 
