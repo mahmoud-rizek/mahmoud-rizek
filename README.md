@@ -10,10 +10,10 @@
   <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook" title="Facebook" >
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/>
 </a>
-  <a href="mahmoudtino24@gmail.com" alt="Gmail">
+  <a href="mailto:mahmoudtino24@gmail.com" alt="Gmail">
      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230177B5?style=flat&logo=gmail&logoColor=white" />
   
-  <a href="https://t.me/carol_helo">
+  <a href="https://t.me/mahmoud_rezak">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%231877F2.svg?style=falt&logo=telegram&logoColor=white" />
 </a>
     
