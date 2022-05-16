@@ -5,10 +5,19 @@
 
 
 <!-- Social icons section -->
-<p align="left">
+
  <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
-  <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook" title="Facebook" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/></a>
-  </p>
+  <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook" title="Facebook" >
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/>
+</a>
+  <a href="mahmoudtino24@gmail.com" alt="Gmail">
+     <img alt="Gmail" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+  
+  <a href="https://t.me/carol_helo">
+    <img alt="Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+</a>
+    
+
   
  <img align="right" width="400" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
@@ -59,9 +68,8 @@ if __name__ == '__main__':
   <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook"  title="Facebook" >
     <img  width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
   </a>
-<a href="mahmoudtino24@gmail.com" alt="Gmail">
-     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+
 </a>
   </p>
 <br />
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img width="35" src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
