@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/>
 </a>
   <a href="mahmoudtino24@gmail.com" alt="Gmail">
-     <img alt="Gmail" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230177B5?style=flat&logo=linkedin&logoColor=white" />
   
   <a href="https://t.me/carol_helo">
-    <img alt="Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%231877F2.svg?style=falt&logo=facebook&logoColor=white" />
 </a>
     
 
@@ -57,6 +57,7 @@ if __name__ == '__main__':
 
 <h2>:hammer_and_wrench: Tools I use</h2>
 <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
  
