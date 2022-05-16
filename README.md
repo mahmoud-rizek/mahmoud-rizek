@@ -18,6 +18,7 @@
 </p>
 
 <h2>:man_technologist: About me</h2>
+
 ```py
   class PersonalInfo:
     def __init__(self):
@@ -36,6 +37,7 @@ if __name__ == '__main__':
     me = PersonalInfo()
 ```
 <h2>:bulb: Languages & Frameworks</h2>
+
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -43,12 +45,14 @@ if __name__ == '__main__':
 
 
 </br></br>
+
 <h2>:hammer_and_wrench: Tools I use</h2>
 <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
  
 <h2>:busts_in_silhouette: How to reach me</h2>
+
 <p align="left">
  <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="35px" title="LinkedIn"/></a>
