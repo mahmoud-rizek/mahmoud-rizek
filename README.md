@@ -33,18 +33,18 @@ if __name__ == '__main__':
     me = PersonalInfo()
 ```
 ## Languages and Tools
-<p align="left">
+<p align="center">
     <img  src="https://bit.ly/3stK11q" alt="Python" width="40px" title="Python"> 
     <img  src="https://bit.ly/3FIIJVn" alt="HTML" width="40px" title="HTML">
     <img  src="https://bit.ly/3l3qkcu" alt="CSS" width="40px" title="CSS">
     <img  src="https://bit.ly/3Mket5M" alt="JavaScript" width="40px" title="JavaScript">
     <br />
 
-
-</p>
-<p align="center">
     <img src="https://bit.ly/3yvoEjR" alt="Git" width="40px" title="Git">
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="40px" title="Github">
+</p>
+<p align="center">
+
 </p>
 
 <br />
