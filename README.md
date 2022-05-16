@@ -38,7 +38,6 @@ if __name__ == '__main__':
     <img  src="https://bit.ly/3FIIJVn" alt="HTML" width="40px" title="HTML">
     <img  src="https://bit.ly/3l3qkcu" alt="CSS" width="40px" title="CSS">
     <img  src="https://bit.ly/3Mket5M" alt="JavaScript" width="40px" title="JavaScript">
-    <br />
 
     <img src="https://bit.ly/3yvoEjR" alt="Git" width="40px" title="Git">
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="40px" title="Github">
