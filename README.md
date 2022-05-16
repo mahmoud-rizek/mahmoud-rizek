@@ -20,7 +20,7 @@
 
 
   
- <img align="center" alt="GIF" src="https://github.com/3bdelrazek/3bdelrazek/blob/main/giphy.gif" width="400" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/3bdelrazek/3bdelrazek/blob/main/giphy.gif" width="400" height="300" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Back+end+Student;Always+Learning+new+things;Python+Developer;&center=true&width=500&height=50"></a>
