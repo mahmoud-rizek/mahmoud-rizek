@@ -51,8 +51,8 @@ if __name__ == '__main__':
 
 ### Connect with me:
 <p align="left">
- <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn"/></a>
-  <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook" title="Facebook" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+ <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="35px" title="LinkedIn"/></a>
+  <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook" width="35px" title="Facebook" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
   </p>
 
 
