@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Back+End+Student;Always+Learning+new+things;Python+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Back+End+Student;Always+Learning+new+things;Python+Developer;&center=true&width=600&height=60"></a>
 </p>
 
 ## About me
@@ -48,9 +48,6 @@ if __name__ == '__main__':
 
 </p>
 
-
-<br />
-
 ### Connect with me:
 <p align="left">
  <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/">
@@ -58,6 +55,4 @@ if __name__ == '__main__':
   <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook"  title="Facebook" >
     <img  width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
   </p>
-
-
 <br />
