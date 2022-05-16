@@ -2,7 +2,7 @@
   Welcome to Mahmoud Mohamed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-#### I'm Back-end  Developer.
+
 
 <!-- Social icons section -->
 <p align="left">
@@ -45,9 +45,9 @@ if __name__ == '__main__':
 </p>
 
 
-
+<br />
 
 ### Connect with me:
-[<img align="left" alt="Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr)
-[<img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahmoud-mohamed-07b983234/)
+[<img alt="Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr)
+[<img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahmoud-mohamed-07b983234/)
 <br />
