@@ -33,21 +33,27 @@ if __name__ == '__main__':
     me = PersonalInfo()
 ```
 ## Languages and Tools
-<p align="center">
-    <img align="left" src="https://bit.ly/3stK11q" alt="Python" width="40px" title="Python"> 
-    <img align="left" src="https://bit.ly/3FIIJVn" alt="HTML" width="40px" title="HTML">
-    <img align="left" src="https://bit.ly/3l3qkcu" alt="CSS" width="40px" title="CSS">
-    <img align="left" src="https://bit.ly/3Mket5M" alt="JavaScript" width="40px" title="JavaScript">
+<p align="left">
+    <img  src="https://bit.ly/3stK11q" alt="Python" width="40px" title="Python"> 
+    <img  src="https://bit.ly/3FIIJVn" alt="HTML" width="40px" title="HTML">
+    <img  src="https://bit.ly/3l3qkcu" alt="CSS" width="40px" title="CSS">
+    <img  src="https://bit.ly/3Mket5M" alt="JavaScript" width="40px" title="JavaScript">
     <br />
-    <img align="left" src="https://bit.ly/3yvoEjR" alt="Git" width="40px" title="Git">
-    <img align="left" src="https://bit.ly/3wvo4Ai" alt="Github" width="40px" title="Github">
+
 
 </p>
-
+<p align="left">
+    <img src="https://bit.ly/3yvoEjR" alt="Git" width="40px" title="Git">
+    <img src="https://bit.ly/3wvo4Ai" alt="Github" width="40px" title="Github">
+</p>
 
 <br />
 
 ### Connect with me:
-[<img alt="Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr)
-[<img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahmoud-mohamed-07b983234/)
+<p align="left">
+ <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook" title="Facebook" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+  </p>
+
+
 <br />
