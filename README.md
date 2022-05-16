@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
 
 </p>
-<p align="left">
+<p align="center">
     <img src="https://bit.ly/3yvoEjR" alt="Git" width="40px" title="Git">
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="40px" title="Github">
 </p>
