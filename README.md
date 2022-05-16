@@ -14,10 +14,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img   width="80px" src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Back+End+Student;Always+Learning+new+things;Python+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Back+end+Student;Always+Learning+new+things;Python+Developer;&center=true&width=500&height=50"></a>
 </p>
 
-## About me
+<h2>:man_technologist: About me</h2>
 ```py
   class PersonalInfo:
     def __init__(self):
@@ -35,24 +35,29 @@
 if __name__ == '__main__':
     me = PersonalInfo()
 ```
-## Languages and Tools
-<p align="center">
-    <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
-    <img src="https://bit.ly/3FIIJVn" alt="HTML" width="55px" title="HTML">
-    <img src="https://bit.ly/3l3qkcu" alt="CSS" width="55px" title="CSS">
-    <br/>
-    <img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git">
-    <img src="https://bit.ly/3wvo4Ai" alt="Github" width="55px" title="Github">
+<h2>:bulb: Languages & Frameworks</h2>
+<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 
 
-
-</p>
-
-### Connect with me:
+</br></br>
+<h2>:hammer_and_wrench: Tools I use</h2>
+<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+ 
+<h2>:busts_in_silhouette: How to reach me</h2>
 <p align="left">
  <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="35px" title="LinkedIn"/></a>
   <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook"  title="Facebook" >
     <img  width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+  </a>
+<a href="mahmoudtino24@gmail.com" alt="Gmail">
+     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>
   </p>
 <br />
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
