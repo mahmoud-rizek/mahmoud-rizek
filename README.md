@@ -61,16 +61,21 @@ if __name__ == '__main__':
 <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
  
-<h2>:busts_in_silhouette: How to reach me</h2>
 
-<p align="left">
- <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="35px" title="LinkedIn"/></a>
-  <a href="https://web.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook"  title="Facebook" >
-    <img  width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
-  </a>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+<p align="center">
+    <a href="#" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/mahmoud-mohamed-07b983234/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/anamody1197/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.facebook.com/mahmoudtino22?_rdc=1&_rdr" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   
+</p> 
+</p>
 
-</a>
-  </p>
+
+
+
+
 <br />
 <p align="right"><a href="#top"><img  src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
