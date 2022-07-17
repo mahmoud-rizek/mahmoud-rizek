@@ -63,7 +63,7 @@ if __name__ == '__main__':
  
  
  </br></br>
- 
+ <hr>
 
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
