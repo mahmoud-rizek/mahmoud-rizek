@@ -23,7 +23,7 @@
  <img align="right" width="500" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Back+end+Student;Always+Learning+new+things;Python+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Junior+Back+end+Developer;Always+Learning+new+things;Django+Developer;&center=true&width=500&height=50"></a>
 </p>
 
 <h2>:man_technologist: About me</h2>
@@ -32,10 +32,10 @@
   class PersonalInfo:
     def __init__(self):
         self.name = 'Mahmoud Mohamed'
-        self.title = 'Python Developer'
+        self.title = 'Python Django | Junior Backend Developer'
         self.location = 'Cairo, Egypt'
-        self.ides = ['PyCharm', 'VS Code']
-        self.languages = ['Python','django', 'HTML', 'CSS']
+        self.ides = ['VS Code']
+        self.languages = ['Python','JavaScript']
         self.challenge = 'Practicing to improve my Problem Solving skill'
 
     def __str__(self):
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     me = PersonalInfo()
 ```
 <h2>:bulb: Languages & Frameworks</h2>
-
+<code><img title="Django" alt="Django" width="40px" src="https://www.svgrepo.com/show/349341/djangoproject.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -56,7 +56,10 @@ if __name__ == '__main__':
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
+<code><img title="PostMan" alt="postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /></code>
 <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+
+
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
