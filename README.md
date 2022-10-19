@@ -59,7 +59,6 @@ if __name__ == '__main__':
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
-<code><img title="MySql" alt="mysql" width="40px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" /></code>
 <code><img title="Docker" alt="docker" width="40px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" /></code>
 <code><img title="PostMan" alt="postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /></code>
 <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
