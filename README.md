@@ -47,19 +47,22 @@ if __name__ == '__main__':
 ```
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="Django" alt="Django" width="40px" src="https://www.svgrepo.com/show/349341/djangoproject.svg" /></code>
-<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="Vue" alt="vue" width="40px" src="https://www.svgrepo.com/show/354528/vue.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="MySql" alt="mysql" width="40px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" /></code>
+<code><img title="BootStrap5" alt="bootstrap5" width="40px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></code>
+<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 
 
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
+<code><img title="MySql" alt="mysql" width="40px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" /></code>
+<code><img title="Docker" alt="docker" width="40px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" /></code>
 <code><img title="PostMan" alt="postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /></code>
 <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-
-
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
