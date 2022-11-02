@@ -50,7 +50,7 @@ if __name__ == '__main__':
 <code><img title="Vue" alt="vue" width="65px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="BootStrap5" alt="bootstrap5" width="40px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></code>
+<code><img title="BootStrap5" alt="bootstrap5" width="50px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></code>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 
@@ -66,12 +66,10 @@ if __name__ == '__main__':
 <code><img title="Redis" alt="Redis" width="70px" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" /></code>
 <code><img title="Heroku" alt="Heroku" width="70px" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" /></code>
 
-
 <code><img title="AmazonWebServices" alt="AmazonWebServices" width="65px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /></code>
 <code><img title="SQLite" alt="SQLite" width="65px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" /></code>
 <code><img title="postgresql" alt="postgresql" width="60px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" /></code>
 <code><img title="Charts.js" alt="Charts.js" width="50px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code>
-
 <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
  
