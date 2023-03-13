@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Mahmoud Mohamed's profile!
+  Welcome to Mahmoud Abd El-Razek's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -31,7 +31,7 @@
 ```py
   class PersonalInfo:
     def __init__(self):
-        self.name = 'Mahmoud Mohamed'
+        self.name = 'Mahmoud Abd El-Razek'
         self.title = 'Python Django | Junior Backend Developer'
         self.location = 'Cairo, Egypt'
         self.ides = ['VS Code']
