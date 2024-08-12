@@ -47,7 +47,7 @@ if __name__ == '__main__':
 ```
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="Django" alt="Django" width="40px" src="https://www.svgrepo.com/show/349341/djangoproject.svg" /></code>
-<code><img title="React" alt="react" width="65px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" /></code>
+<code><img title="React" alt="react" width="80px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="BootStrap5" alt="bootstrap5" width="50px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></code>
